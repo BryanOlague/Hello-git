@@ -6,3 +6,6 @@
 .link{
     @apply text-white block p-5 font-bold hover:text-yellow-500
 }
+.inputs {
+    @apply   w-full p-2 border-b-2 border-b-blue-600 mb-3 outline-none text-blue-700    
+}
