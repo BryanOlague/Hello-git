@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@theme{
+    --color-azulMario: #261ABD;
+    
+}
+.link{
+    @apply text-white block p-5 font-bold hover:text-yellow-500
+}
